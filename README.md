@@ -10,14 +10,8 @@ The main purpose of this repository is to provide you a number of Developer focu
     |Loooooooooooooong item 1 | looooooooooong item 2 | 
 
 
-Markdown, in comparison to HTML, is much simpler to read and write.  The average person can typically understand markdown and would be able to learn and write it much quicker than HTML.
-
-Specifically, Visual Studio Code uses the [CommonMark](http://commonmark.org/) Markdown specification.
-
-## Sections
 - [Microsoft Azure Dev Days : MS US Developer Audience Team](#Microsoft-Azure-Dev-Days--MS-US-Developer-Audience-Team)
-  - [Sections](#Sections)
-  - [Headers](#Headers)
+  - [Microsoft GitHub Repos](#Microsoft-GitHub-Repos)
   - [Quotes](#Quotes)
   - [Emphasis](#Emphasis)
   - [Horizontal Rule](#Horizontal-Rule)
@@ -29,21 +23,16 @@ Specifically, Visual Studio Code uses the [CommonMark](http://commonmark.org/) M
 
 ---
 
-## Headers
+## Microsoft GitHub Repos
 Headers are defined by the '#'symbol.  One '#' for H1, two for H2, etc.
 
-<!-- 
-    Example
 
-    # H1 Header 
--->
-> **TODO**. Create an H1 
 
-> **TODO**. Create an H2 
 
-> **TODO**. Create an H3 
+    Azure Samples (https://github.com/azure-samples) 
 
-> **TODO**. Create an H4 
+
+
 
 ---
 
