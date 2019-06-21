@@ -147,19 +147,17 @@ Create ordered lists using a number prefix
 ## Links
 
 Create a link by surrounding it with angle bracket
-<!-- 
-    Example
+
 
     <http://www.jamesqquick.com> 
--->
+
 
 Create a link with text by surrounding text with brackets, [], and link immediately following with parenthesis ()
 
-<!-- 
-    Example
+
 
     [James Q Quick](http://www.jamesqquick.com) 
--->
+
 
 > **TODO** Create a link to your website, twitter, or github. with no text
 
@@ -169,19 +167,17 @@ What if you needed to reuse a link several times?  Well, you could copy and past
 
 Create reference style links by defining your link with the a 'key' inside of brackets, colon, space, and the link
 
-<!-- 
-    Example
+
 
     [1]: http://jamesqquick.com/ 
--->
+
 
 Then use the reference style link by using your text inside of brackets followed by the link 'key' inside of bracket.
 
-<!-- 
-    Example
+
 
     [My Website][1] 
--->
+
 
 > **TODO** Create a reference link to your website and reference it three times
 
