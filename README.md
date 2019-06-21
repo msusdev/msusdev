@@ -27,10 +27,12 @@ The main purpose of this repository is to provide you with a number of Developer
 
 ## Microsoft GitHub Repos
 Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby
+
 [Azure Samples](https://github.com/azure-samples)
 
-Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby
-[Azure Cosmos DB](https://github.com/CosmosDB/labs)
+This series of workshops will give you hands-on experience working with Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK. 
+
+[Azure Cosmos DB](https://cosmosdb.github.io/labs/)
 
 [MarkDown in Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
 
