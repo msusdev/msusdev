@@ -27,9 +27,15 @@ The main purpose of this repository is to provide you a number of Developer focu
 Headers are defined by the '#'symbol.  One '#' for H1, two for H2, etc.
 
 
+[Azure Samples](https://github.com/azure-samples)
+
+[Azure Cosmos DB](https://github.com/CosmosDB/labs)
+
+[MarkDown in Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
+
+[MarkDown in Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
 
 
-    Azure Samples (https://github.com/azure-samples) 
 
 
 
