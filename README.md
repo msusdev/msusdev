@@ -28,11 +28,12 @@ This series of workshops will give you hands-on experience working with Azure Co
 
 [Azure Cosmos DB](https://cosmosdb.github.io/labs/)
 
+Microsoft Cloud Workshops
 
+[Microsoft Cloud Workshops](https://github.com/microsoft/MCW)
 
-[MarkDown in Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
-
-[MarkDown in Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
+Data for Developement
+[Data for Development](https://github.com/Microsoft/developer-immersion-data)
 
 
 
