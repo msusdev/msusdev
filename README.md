@@ -26,11 +26,10 @@ The main purpose of this repository is to provide you with a number of Developer
 -->
 
 ## Microsoft GitHub Repos
-Headers are defined by the '#'symbol.  One '#' for H1, two for H2, etc.
-
-
+Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby
 [Azure Samples](https://github.com/azure-samples)
 
+Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby
 [Azure Cosmos DB](https://github.com/CosmosDB/labs)
 
 [MarkDown in Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown)
