@@ -3,7 +3,7 @@ The main purpose of this repository is to provide you with a number of Developer
 
 
 
-
+<!--
 
     | Header 1 | Header 2 |
     | ----| ---|
@@ -22,6 +22,8 @@ The main purpose of this repository is to provide you with a number of Developer
   - [Additional Resources](#Additional-Resources)
 
 ---
+
+-->
 
 ## Microsoft GitHub Repos
 Headers are defined by the '#'symbol.  One '#' for H1, two for H2, etc.
