@@ -1,5 +1,5 @@
 # Microsoft Azure Dev Days : MS US Developer Audience Team
-The main porpuse of this repostiry is to provide you a number of Developer focussed event scenarios to choose from, or to build your own using existing up to date content.
+The main purpose of this repository is to provide you a number of Developer focused event scenarios to choose from, or to build your own using existing up to date content.
 
 
 
