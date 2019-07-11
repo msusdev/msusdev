@@ -1,6 +1,6 @@
 # Microsoft Azure Training Days :
 The main purpose of this repository is to provide you with content resources to deliver hands-on technical workshops.
-[Contact Us](mailto:usdev@microsoft.com)
+
 
 
 
@@ -9,6 +9,8 @@ The main purpose of this repository is to provide you with content resources to 
     | Header 1 | Header 2 |
     | ----| ---|
     |Loooooooooooooong item 1 | looooooooooong item 2 | 
+
+    [Contact Us](mailto:usdev@microsoft.com)
 
 
 - [Microsoft Azure Training Days :](#Microsoft-Azure-Training-Days)
@@ -48,30 +50,17 @@ Practice with the latest cloud products and services in a live environment and a
 
 ---
 
+
+
 ## "Awesome" Field Contributions
 Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com)
-
-Application Modernization From IaaS to PaaS
-
-[App Modernization - Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)
-
-Microservices Architecture Approaches
-
-[Microservices - Andy Wahrenberger](https://github.com/andywahr/MicroservicesInAzureDiscoveryDay)
-
-DevOps for Azure Applications
-
-[DevOps for Azure Applications - William Salazar](https://github.com/whsalazar/MCW-Continuous-delivery-in-Azure-DevOps)
-
----
-
-## Other Assets
-
-| Command | Description |
+| Description | GitHub Repo |
 | --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| Application Modernization From IaaS to PaaS| [App Modernization - Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)|
+| Microservices Architecture Approaches| [Microservices - Andy Wahrenberger](https://github.com/andywahr/MicroservicesInAzureDiscoveryDay)|
+| DevOps for Azure Applications| [DevOps for Azure Applications - William Salazar](https://github.com/whsalazar/MCW-Continuous-delivery-in-Azure-DevOps)|
 
 
 ---
-
+## Other Assets
+Other Assets
