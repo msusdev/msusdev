@@ -30,9 +30,9 @@ The main purpose of this repository is to provide you with content resources to 
 | [Azure Samples](https://github.com/azure-samples) | Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby |
 | [Azure Cosmos DB Workshop](https://cosmosdb.github.io/labs/)  | Series of workshops for hands-on experience working with Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK. |
 | [Microsoft Cloud Workshops](https://github.com/microsoft/MCW) |Microsoft Cloud Workshops  |
-| [Data for Development](https://github.com/Microsoft/developer-immersion-data)| Data for Developement|
-| `git status` | List all *new or modified* files |
-| `git status` | List all *new or modified* files |
+| [Data for Development](https://github.com/Microsoft/developer-immersion-data)| Developer Immersion: Data for Developement|
+| [SQL Server for Developers](https://github.com/Microsoft/sqldev/) | SQL Server for Developers |
+| [IoT Edge and Azure DevOps](https://github.com/toolboc/IoTEdge-DevOps) | IoT Edge and Azure DevOps |
 
 
 ---
