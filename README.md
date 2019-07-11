@@ -15,7 +15,7 @@ The main purpose of this repository is to provide you with content resources to 
   - [Microsoft GitHub Repos](#Microsoft-GitHub-Repos)
   - [Microsoft Hands-on Labs](#Microsoft-Hands-on-Labs)
   - ["Awesome" Field Contributions](#%22Awesome%22-Field-Contributions)
-  - [## Other Assets](#Other-Assets)
+  - [Other Assets](#Other-Assets)
 
 ---
 
@@ -49,6 +49,8 @@ Practice with the latest cloud products and services in a live environment and a
 ---
 
 ## "Awesome" Field Contributions
+Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com)
+
 Application Modernization From IaaS to PaaS
 
 [App Modernization - Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)
@@ -64,5 +66,12 @@ DevOps for Azure Applications
 ---
 
 ## Other Assets
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+
 ---
 
