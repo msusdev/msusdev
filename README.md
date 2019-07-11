@@ -60,7 +60,7 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 ---
 
 ## Other Assets
-Other Assets
+More Awesome stuff coming !! : ) 
 
 <!--
 
