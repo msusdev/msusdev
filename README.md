@@ -1,5 +1,6 @@
-# Microsoft Azure Dev Days : MS US Developer Audience Team
-The main purpose of this repository is to provide you with a number of Developer focused event scenarios to choose from, or to build your own using existing up to date content.
+# Microsoft Azure Training Days :
+The main purpose of this repository is to provide you with content resources to deliver hands-on technical workshops.
+[Questions](https://github.com/azure-samples)
 
 
 
@@ -10,7 +11,7 @@ The main purpose of this repository is to provide you with a number of Developer
     |Loooooooooooooong item 1 | looooooooooong item 2 | 
 
 
-- [Microsoft Azure Dev Days : MS US Developer Audience Team](#Microsoft-Azure-Dev-Days--MS-US-Developer-Audience-Team)
+- [Microsoft Azure Training Days :](#Microsoft-Azure-Training-Days)
   - [Microsoft GitHub Repos](#Microsoft-GitHub-Repos)
   - [Microsoft Hands-on Labs](#Microsoft-Hands-on-Labs)
   - ["Awesome" Field Contributions](#%22Awesome%22-Field-Contributions)
