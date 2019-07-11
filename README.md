@@ -41,6 +41,21 @@ Data for Developement
 [Data for Development](https://github.com/Microsoft/developer-immersion-data)
 
 
+
+| Description | GitHub Repo |
+| --- | --- |
+| Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby | List all *new or modified* files |
+| This series of workshops will give you hands-on experience working with Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK.  | [Azure Samples](https://github.com/azure-samples) |
+| Microsoft Cloud Workshops | [Azure Cosmos DB](https://cosmosdb.github.io/labs/) |
+| Data for Developement| [Data for Development](https://github.com/Microsoft/developer-immersion-data) |
+| `git status` | List all *new or modified* files |
+| `git status` | List all *new or modified* files |
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
 ---
 ## Microsoft Hands-on Labs 
 Microsoft Hands-on Labs 
@@ -63,11 +78,5 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 
 ---
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
-
----
 ## Other Assets
 Other Assets
