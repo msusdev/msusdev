@@ -14,6 +14,7 @@ The main purpose of this repository is to provide you with a number of Developer
   - [Microsoft GitHub Repos](#Microsoft-GitHub-Repos)
   - [## Azure Dev Days](#Azure-Dev-Days)
   - [## Azure Dev Days Assets](#Azure-Dev-Days-Assets)
+  - [Hands on Lab](#Hands-on-Lab)
 
 ---
 
@@ -48,4 +49,8 @@ Data for Developement
 
 ## Azure Dev Days Assets
 ---
+
+## Hands on Lab
+This series is pre-configured git 
+add more information
 
