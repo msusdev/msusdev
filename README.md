@@ -14,7 +14,6 @@ The main purpose of this repository is to provide you with a number of Developer
   - [Microsoft GitHub Repos](#Microsoft-GitHub-Repos)
   - [Microsoft Hands-on Labs](#Microsoft-Hands-on-Labs)
   - ["Awesome" Field Contributions](#%22Awesome%22-Field-Contributions)
-  - [Ryan Berry](#Ryan-Berry)
   - [## Other Assets](#Other-Assets)
 
 ---
@@ -49,10 +48,18 @@ Practice with the latest cloud products and services in a live environment and a
 ---
 
 ## "Awesome" Field Contributions
-App Modernization Workshop
 Application Modernization From IaaS to PaaS
 
-[Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)
+[App Modernization - Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)
+
+Microservices Architecture Approaches
+
+[Microservices - Andy Wahrenberger](https://github.com/andywahr/MicroservicesInAzureDiscoveryDay)
+
+DevOps for Azure Applications
+
+[DevOps for Azure Applications - William Salazar](https://github.com/whsalazar/MCW-Continuous-delivery-in-Azure-DevOps)
+
 ---
 
 ## Other Assets
