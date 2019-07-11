@@ -12,9 +12,10 @@ The main purpose of this repository is to provide you with a number of Developer
 
 - [Microsoft Azure Dev Days : MS US Developer Audience Team](#Microsoft-Azure-Dev-Days--MS-US-Developer-Audience-Team)
   - [Microsoft GitHub Repos](#Microsoft-GitHub-Repos)
-  - [## Azure Dev Days](#Azure-Dev-Days)
-  - [## Azure Dev Days Assets](#Azure-Dev-Days-Assets)
-  - [Hands on Lab](#Hands-on-Lab)
+  - [Microsoft Hands-on Labs](#Microsoft-Hands-on-Labs)
+  - ["Awesome" Field Contributions](#%22Awesome%22-Field-Contributions)
+  - [Ryan Berry](#Ryan-Berry)
+  - [## Other Assets](#Other-Assets)
 
 ---
 
@@ -38,19 +39,21 @@ Data for Developement
 [Data for Development](https://github.com/Microsoft/developer-immersion-data)
 
 
-
-
-
+---
+## Microsoft Hands-on Labs 
+Microsoft Hands-on Labs 
+Get hands-on with cloud technologies from Microsoft
+Practice with the latest cloud products and services in a live environment and advance your cloud skills for free.
+[Microsoft Hands-on Labs ](https://www.microsoft.com/handsonlabs)
 
 ---
 
-## Azure Dev Days
+## "Awesome" Field Contributions
+App Modernization Workshop
+Application Modernization From IaaS to PaaS
+
+[Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)
 ---
 
-## Azure Dev Days Assets
+## Other Assets
 ---
-
-## Hands on Lab
-This series is pre-configured git 
-add more information
-
