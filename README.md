@@ -33,6 +33,8 @@ The main purpose of this repository is to provide you with content resources to 
 | [Data for Development](https://github.com/Microsoft/developer-immersion-data)| Developer Immersion: Data for Developement|
 | [SQL Server for Developers](https://github.com/Microsoft/sqldev/) | SQL Server for Developers |
 | [IoT Edge and Azure DevOps](https://github.com/toolboc/IoTEdge-DevOps) | IoT Edge and Azure DevOps |
+| [Azure Docs on GitHub](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles) | Azure Docs on GitHub - example:  azure-docs/articles/azure-functions/*.md file |
+
 
 
 ---
