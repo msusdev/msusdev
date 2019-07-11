@@ -1,6 +1,6 @@
 # Microsoft Azure Training Days :
 The main purpose of this repository is to provide you with content resources to deliver hands-on technical workshops.
-[Questions](https://github.com/azure-samples)
+[Contact Us](mailto:usdev@microsoft.com)
 
 
 
@@ -65,3 +65,4 @@ DevOps for Azure Applications
 
 ## Other Assets
 ---
+
