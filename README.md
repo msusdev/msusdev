@@ -43,10 +43,11 @@ Data for Developement
 
 
 | Description | GitHub Repo |
-| --- | --- |
-| Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby | List all *new or modified* files |
-| This series of workshops will give you hands-on experience working with Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK.  | [Azure Samples](https://github.com/azure-samples) |
-| Microsoft Cloud Workshops | [Azure Cosmos DB](https://cosmosdb.github.io/labs/) |
+| --- |  --- |
+| Microsoft Azure code samples and examples in .NET, 
+Java, Python, Node.js, PHP and Ruby | [Azure Samples](https://github.com/azure-samples)|
+| Series of workshops for hands-on experience working with Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK.  | [Azure Cosmos DB](https://cosmosdb.github.io/labs/) |
+| Microsoft Cloud Workshops | [Microsoft Cloud Workshops](https://github.com/microsoft/MCW) |
 | Data for Developement| [Data for Development](https://github.com/Microsoft/developer-immersion-data) |
 | `git status` | List all *new or modified* files |
 | `git status` | List all *new or modified* files |
