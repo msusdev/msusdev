@@ -24,38 +24,16 @@ The main purpose of this repository is to provide you with content resources to 
 -->
 
 ## Microsoft GitHub Repos
-Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby
-
-[Azure Samples](https://github.com/azure-samples)
-
-This series of workshops will give you hands-on experience working with Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK. 
-
-[Azure Cosmos DB](https://cosmosdb.github.io/labs/)
-
-Microsoft Cloud Workshops
-
-[Microsoft Cloud Workshops](https://github.com/microsoft/MCW)
-
-Data for Developement
-
-[Data for Development](https://github.com/Microsoft/developer-immersion-data)
-
-
 
 | Description | GitHub Repo |
-| --- |  --- |
-| Microsoft Azure code samples and examples in .NET, 
-Java, Python, Node.js, PHP and Ruby | [Azure Samples](https://github.com/azure-samples)|
-| Series of workshops for hands-on experience working with Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK.  | [Azure Cosmos DB](https://cosmosdb.github.io/labs/) |
-| Microsoft Cloud Workshops | [Microsoft Cloud Workshops](https://github.com/microsoft/MCW) |
-| Data for Developement| [Data for Development](https://github.com/Microsoft/developer-immersion-data) |
+| --- | --- | 
+| [Azure Samples](https://github.com/azure-samples) | Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby |
+| [Azure Cosmos DB Workshop](https://cosmosdb.github.io/labs/)  | Series of workshops for hands-on experience working with Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK. |
+| [Microsoft Cloud Workshops](https://github.com/microsoft/MCW) |Microsoft Cloud Workshops  |
+| [Data for Development](https://github.com/Microsoft/developer-immersion-data)| Data for Developement|
 | `git status` | List all *new or modified* files |
 | `git status` | List all *new or modified* files |
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
 
 ---
 ## Microsoft Hands-on Labs 
@@ -81,3 +59,28 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 
 ## Other Assets
 Other Assets
+
+<!--
+
+ Command | Description | New |
+| --------------------- | --------------------- | --|
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+
+
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+ [Azure Samples](https://github.com/azure-samples)       |          Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby        | Column S|
+[Azure Samples](https://github.com/azure-samples)       |          Series of workshops for hands-on experience working with Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK.          | Column S|
+Content       |   **Cell**    |         Cell |
+
+>
