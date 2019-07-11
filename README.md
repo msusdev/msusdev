@@ -54,12 +54,19 @@ Practice with the latest cloud products and services in a live environment and a
 
 ## "Awesome" Field Contributions
 Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com)
+
 | Description | GitHub Repo |
 | --- | --- |
 | Application Modernization From IaaS to PaaS| [App Modernization - Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)|
 | Microservices Architecture Approaches| [Microservices - Andy Wahrenberger](https://github.com/andywahr/MicroservicesInAzureDiscoveryDay)|
 | DevOps for Azure Applications| [DevOps for Azure Applications - William Salazar](https://github.com/whsalazar/MCW-Continuous-delivery-in-Azure-DevOps)|
 
+---
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
 
 ---
 ## Other Assets
