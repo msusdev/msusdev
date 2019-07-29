@@ -29,6 +29,7 @@ The main purpose of this repository is to provide you with content resources to 
 | --- | --- | 
 | [Azure Samples](https://github.com/azure-samples) | Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby |
 | [Azure Cosmos DB Workshop](https://cosmosdb.github.io/labs/)  | Series of workshops for hands-on experience working with Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK. |
+| [Azure Cosmos DB using Azure DevOps](https://github.com/CosmosDB/labs/blob/master/devops/devops.md)  | Quickly get started with Azure Cosmos DB using Azure DevOps Projects |
 | [Microsoft Cloud Workshops](https://github.com/microsoft/MCW) |Microsoft Cloud Workshops  |
 | [Data for Development](https://github.com/Microsoft/developer-immersion-data)| Developer Immersion: Data for Developement|
 | [SQL Server for Developers](https://github.com/Microsoft/sqldev/) | SQL Server for Developers |
@@ -60,7 +61,7 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 ---
 
 ## Other Assets
-More Awesome stuff coming !! : ) 
+More Awesome stuff coming !! : )
 
 <!--
 
