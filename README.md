@@ -13,11 +13,11 @@ The main purpose of this repository is to provide you with content resources to 
     [Contact Us](mailto:usdev@microsoft.com)
 
 
-- [Microsoft Azure Training Days :](#Microsoft-Azure-Training-Days)
-  - [Microsoft GitHub Repos](#Microsoft-GitHub-Repos)
-  - [Microsoft Hands-on Labs](#Microsoft-Hands-on-Labs)
-  - ["Awesome" Field Contributions](#%22Awesome%22-Field-Contributions)
-  - [Other Assets](#Other-Assets)
+- [Microsoft Azure Training Days :](#microsoft-azure-training-days)
+  - [Microsoft GitHub Repos](#microsoft-github-repos)
+  - [Microsoft Hands-on Labs](#microsoft-hands-on-labs)
+  - ["Awesome" Field Contributions](#%22awesome%22-field-contributions)
+  - [Other Assets](#other-assets)
 
 ---
 
@@ -35,6 +35,7 @@ The main purpose of this repository is to provide you with content resources to 
 | [SQL Server for Developers](https://github.com/Microsoft/sqldev/) | SQL Server for Developers |
 | [IoT Edge and Azure DevOps](https://github.com/toolboc/IoTEdge-DevOps) | IoT Edge and Azure DevOps |
 | [Azure Docs on GitHub](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles) | Azure Docs on GitHub - example:  azure-docs/articles/azure-functions/*.md file |
+| [The Azure Kubernetes Workshop](https://aksworkshop.io/) | The Azure Kubernetes Challenge, Challenged based, immersive way of learning  |
 
 
 
