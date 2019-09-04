@@ -51,6 +51,8 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 | [Azure Docs on GitHub](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles) | Azure Docs on GitHub - example:  azure-docs/articles/azure-functions/*.md file |
 | [The Azure Kubernetes Workshop](https://aksworkshop.io/) | The Azure Kubernetes Challenge, Challenged based, immersive way of learning  |
 
+---
+
 ## Microsoft Hands-on Labs 
 Microsoft Hands-on Labs 
 Get hands-on with cloud technologies from Microsoft
