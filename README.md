@@ -55,6 +55,7 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 
 | Description | GitHub Repo |
 | --- | --- |
+| Migrating Applications to the Cloud| [App Migration - MTC Team](https://github.com/chadgms/2019AzureMigrateYourApps)|
 | Application Modernization From IaaS to PaaS| [App Modernization - Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)|
 | Microservices Architecture Approaches| [Microservices - Andy Wahrenberger](https://github.com/andywahr/MicroservicesInAzureDiscoveryDay)|
 | DevOps for Azure Applications| [DevOps for Azure Applications - William Salazar](https://github.com/whsalazar/MCW-Continuous-delivery-in-Azure-DevOps)|
