@@ -35,6 +35,7 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 | Microservices Architecture Approaches| [Microservices - Andy Wahrenberger](https://github.com/andywahr/MicroservicesInAzureDiscoveryDay)|
 | DevOps for Azure Applications| [DevOps for Azure Applications - William Salazar](https://github.com/whsalazar/MCW-Continuous-delivery-in-Azure-DevOps)|
 
+---
 
 ## Microsoft GitHub Repos
 
@@ -56,7 +57,7 @@ Get hands-on with cloud technologies from Microsoft
 Practice with the latest cloud products and services in a live environment and advance your cloud skills for free.
 [Microsoft Hands-on Labs ](https://www.microsoft.com/handsonlabs)
 
----
+
 
 
 
