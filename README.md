@@ -14,14 +14,27 @@ The main purpose of this repository is to provide you with content resources to 
 
 
 - [Microsoft Azure Training Days :](#microsoft-azure-training-days)
+  - ["Awesome" Field Contributions](#%22awesome%22-field-contributions)
   - [Microsoft GitHub Repos](#microsoft-github-repos)
   - [Microsoft Hands-on Labs](#microsoft-hands-on-labs)
-  - ["Awesome" Field Contributions](#%22awesome%22-field-contributions)
   - [Other Assets](#other-assets)
 
 ---
 
 -->
+---
+## "Awesome" Field Contributions
+Complete 1-day technical event agenda's and lab content to help you prepare and deliver !
+
+Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com)
+
+| Description | GitHub Repo |
+| --- | --- |
+| Migrating Applications to the Cloud| [App Migration - MTC Team](https://github.com/chadgms/2019AzureMigrateYourApps)|
+| Application Modernization From IaaS to PaaS| [App Modernization - Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)|
+| Microservices Architecture Approaches| [Microservices - Andy Wahrenberger](https://github.com/andywahr/MicroservicesInAzureDiscoveryDay)|
+| DevOps for Azure Applications| [DevOps for Azure Applications - William Salazar](https://github.com/whsalazar/MCW-Continuous-delivery-in-Azure-DevOps)|
+
 
 ## Microsoft GitHub Repos
 
@@ -37,9 +50,6 @@ The main purpose of this repository is to provide you with content resources to 
 | [Azure Docs on GitHub](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles) | Azure Docs on GitHub - example:  azure-docs/articles/azure-functions/*.md file |
 | [The Azure Kubernetes Workshop](https://aksworkshop.io/) | The Azure Kubernetes Challenge, Challenged based, immersive way of learning  |
 
-
-
----
 ## Microsoft Hands-on Labs 
 Microsoft Hands-on Labs 
 Get hands-on with cloud technologies from Microsoft
@@ -50,17 +60,6 @@ Practice with the latest cloud products and services in a live environment and a
 
 
 
-## "Awesome" Field Contributions
-Complete 1-day technical event agenda's and lab content to help you prepare and deliver !
-
-Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com)
-
-| Description | GitHub Repo |
-| --- | --- |
-| Migrating Applications to the Cloud| [App Migration - MTC Team](https://github.com/chadgms/2019AzureMigrateYourApps)|
-| Application Modernization From IaaS to PaaS| [App Modernization - Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)|
-| Microservices Architecture Approaches| [Microservices - Andy Wahrenberger](https://github.com/andywahr/MicroservicesInAzureDiscoveryDay)|
-| DevOps for Azure Applications| [DevOps for Azure Applications - William Salazar](https://github.com/whsalazar/MCW-Continuous-delivery-in-Azure-DevOps)|
 
 ---
 
