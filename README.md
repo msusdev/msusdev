@@ -15,7 +15,7 @@ The main purpose of this repository is to provide you with content resources to 
 
 - [Microsoft Azure Training Days :](#microsoft-azure-training-days)
   - ["Awesome" Field Contributions](#%22awesome%22-field-contributions)
-  - [LearnAI-Knowledge Mining Bootcamp](#learnai-knowledge-mining-bootcamp)
+  - [Learn AI-Knowledge Mining Bootcamp](#learn-ai-knowledge-mining-bootcamp)
   - [Microsoft GitHub Repos](#microsoft-github-repos)
   - [Microsoft Hands-on Labs](#microsoft-hands-on-labs)
   - [Other Assets](#other-assets)
@@ -38,7 +38,7 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 
 ---
 
-## LearnAI-Knowledge Mining Bootcamp
+## Learn AI-Knowledge Mining Bootcamp
 
 | Description | GitHub Repo |
 | --- | --- | 
