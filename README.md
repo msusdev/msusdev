@@ -15,6 +15,7 @@ The main purpose of this repository is to provide you with content resources to 
 
 - [Microsoft Azure Training Days :](#microsoft-azure-training-days)
   - ["Awesome" Field Contributions](#%22awesome%22-field-contributions)
+  - [LearnAI-Knowledge Mining Bootcamp](#learnai-knowledge-mining-bootcamp)
   - [Microsoft GitHub Repos](#microsoft-github-repos)
   - [Microsoft Hands-on Labs](#microsoft-hands-on-labs)
   - [Other Assets](#other-assets)
@@ -34,6 +35,15 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 | Application Modernization From IaaS to PaaS| [App Modernization - Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)|
 | Microservices Architecture Approaches| [Microservices - Andy Wahrenberger](https://github.com/andywahr/MicroservicesInAzureDiscoveryDay)|
 | DevOps for Azure Applications| [DevOps for Azure Applications - William Salazar](https://github.com/whsalazar/MCW-Continuous-delivery-in-Azure-DevOps)|
+
+---
+
+## LearnAI-Knowledge Mining Bootcamp
+
+| Description | GitHub Repo |
+| --- | --- | 
+| [Knowledge Mining](https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/) | Knowledge Mining Bootcamp - Build a Cognitive Search Solution for business documents using Microsoft AI Platform |
+| [Alternative agendas](https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/)  | Knowledge Mining Bootcamp - Build a Cognitive Search Solution for business documents using Microsoft AI Platform |
 
 ---
 
