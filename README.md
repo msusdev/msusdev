@@ -25,7 +25,7 @@ The main purpose of this repository is to provide you with content resources to 
 -->
 ---
 ## "Awesome" Field Contributions
-Complete 1-day technical event agenda's and lab content to help you prepare and deliver .!
+Complete 1-day technical event agenda's and lab content to help you prepare and deliver !
 
 Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com)
 
