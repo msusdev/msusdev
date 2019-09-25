@@ -51,6 +51,8 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 
 | Description | GitHub Repo |
 | --- | --- | 
+| [The Azure Kubernetes Workshop](https://aksworkshop.io/) | The Azure Kubernetes Challenge, Challenged based, immersive way of learning  |
+| [Azure Red Hat OpenShift Workshop](https://aroworkshop.io/) | The Azure Red Hat OpenShift Challenge, Challenged based, immersive way of learning  |
 | [Azure Samples](https://github.com/azure-samples) | Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby |
 | [Azure Cosmos DB Workshop](https://cosmosdb.github.io/labs/)  | Series of workshops for hands-on experience working with Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK. |
 | [Azure Cosmos DB using Azure DevOps](https://github.com/CosmosDB/labs/blob/master/devops/devops.md)  | Quickly get started with Azure Cosmos DB using Azure DevOps Projects |
@@ -59,7 +61,7 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 | [SQL Server for Developers](https://github.com/Microsoft/sqldev/) | SQL Server for Developers |
 | [IoT Edge and Azure DevOps](https://github.com/toolboc/IoTEdge-DevOps) | IoT Edge and Azure DevOps |
 | [Azure Docs on GitHub](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles) | Azure Docs on GitHub - example:  azure-docs/articles/azure-functions/*.md file |
-| [The Azure Kubernetes Workshop](https://aksworkshop.io/) | The Azure Kubernetes Challenge, Challenged based, immersive way of learning  |
+
 
 ---
 
