@@ -36,6 +36,7 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 | Microservices Architecture Approaches| [Microservices - Andy Wahrenberger](https://github.com/andywahr/MicroservicesInAzureDiscoveryDay)|
 | DevOps for Azure Applications| [DevOps for Azure Applications - William Salazar](https://github.com/whsalazar/MCW-Continuous-delivery-in-Azure-DevOps)|
 | Azure Spring Boot Training Materials | [A series of tutorials for a workshop on Azure Spring Boot - Julien Dubois](https://github.com/microsoft/azure-spring-cloud-training)|
+|Containers and the Path to the Cloud | [Containers and the Path to the Cloud: Which Road to Take](https://github.com/GLRAzure/containers-path-to-cloud)|
 
 ---
 
