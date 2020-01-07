@@ -43,7 +43,7 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 
 ## Azure Training Day - Baseline Events 
 
-| Description | GitHub Repo |
+| Description | Shared Location |
 | --- | --- | 
 | [Azure Training Day - Baseline Events](https://microsoft.sharepoint.com/sites/Events/SitePages/Baseline.aspx) | Azure Training Day - Baseline Events  FY20H2 |
 ---
