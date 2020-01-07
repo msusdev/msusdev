@@ -35,6 +35,7 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 |Containers and the Path to the Cloud | [Containers and the Path to the Cloud: Which Road to Take - GLR Azure Team](https://github.com/GLRAzure/containers-path-to-cloud)|
 | Application Modernization From IaaS to PaaS| [App Modernization - Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)|
 | Azure Spring Boot Training Materials | [A series of tutorials for a workshop on Azure Spring Boot - Julien Dubois](https://github.com/microsoft/azure-spring-cloud-training)|
+| Azure Training Day - Baseline Events | [Azure Training Day - Baseline Events  FY20H2](https://microsoft.sharepoint.com/sites/Events/SitePages/Baseline.aspx)|
 
 
 ---
