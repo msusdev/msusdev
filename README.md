@@ -15,6 +15,8 @@ The main purpose of this repository is to provide you with content resources to 
 
 - [Microsoft Azure Training Days :](#microsoft-azure-training-days)
   - ["Awesome" Field Contributions](#%22awesome%22-field-contributions)
+  - [Azure Training Day - Baseline Events](#azure-training-day---baseline-events)
+  - [| Azure Training Day - Baseline Events | Azure Training Day - Baseline Events FY20H2 |](#azure-training-day---baseline-events--azure-training-day---baseline-events-fy20h2)
   - [Learn AI-Knowledge Mining Bootcamp](#learn-ai-knowledge-mining-bootcamp)
   - [Microsoft GitHub Repos](#microsoft-github-repos)
   - [Microsoft Hands-on Labs](#microsoft-hands-on-labs)
@@ -35,9 +37,15 @@ Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com
 |Containers and the Path to the Cloud | [Containers and the Path to the Cloud: Which Road to Take - GLR Azure Team](https://github.com/GLRAzure/containers-path-to-cloud)|
 | Application Modernization From IaaS to PaaS| [App Modernization - Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)|
 | Azure Spring Boot Training Materials | [A series of tutorials for a workshop on Azure Spring Boot - Julien Dubois](https://github.com/microsoft/azure-spring-cloud-training)|
-| Azure Training Day - Baseline Events | [Azure Training Day - Baseline Events  FY20H2](https://microsoft.sharepoint.com/sites/Events/SitePages/Baseline.aspx)|
 
 
+---
+
+## Azure Training Day - Baseline Events 
+
+| Description | GitHub Repo |
+| --- | --- | 
+| [Azure Training Day - Baseline Events](https://microsoft.sharepoint.com/sites/Events/SitePages/Baseline.aspx) | Azure Training Day - Baseline Events  FY20H2 |
 ---
 
 ## Learn AI-Knowledge Mining Bootcamp
